@@ -1,7 +1,6 @@
 ### Hi, I'm Duy 💙
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
------
 - 👀 I’m interested in web application development process <br>
 - 🌱 I’m currently learning with ReactJs, Redux, NodeJS, Express,...
 -----
