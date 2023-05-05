@@ -1,5 +1,5 @@
 ### Hi, I'm Duy 💙
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 50/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50px"/>
 
 - 👀 I’m interested in web application development process <br>
 - 🌱 I’m currently learning with ReactJs, Redux, NodeJS, Express,...
