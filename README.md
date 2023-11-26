@@ -1,4 +1,4 @@
-### Hi, I'm Duy 💙
+### Hi, I'm Duy 💙 I'm a backend developer
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200px"/>
 
 - 👀 I’m interested in web application development process <br>
